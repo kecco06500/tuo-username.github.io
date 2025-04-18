@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Kecco06/manimations/fourier/media/videos/f/1080p60/partial_movie_files/FourierEpicycles/3977891868_3438555242_656753560.mp4'
+file 'file:C:/Users/Kecco06/manimations/fourier/media/videos/f/1080p60/partial_movie_files/FourierEpicycles/2852726489_375687694_616794621.mp4'
+file 'file:C:/Users/Kecco06/manimations/fourier/media/videos/f/1080p60/partial_movie_files/FourierEpicycles/2852726489_2749144852_2365136835.mp4'

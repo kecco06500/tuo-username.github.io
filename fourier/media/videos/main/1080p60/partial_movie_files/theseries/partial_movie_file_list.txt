@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Kecco06/manimations/fourier/media/videos/main/1080p60/partial_movie_files/theseries/3977891868_4170520217_1417779628.mp4'
+file 'file:C:/Users/Kecco06/manimations/fourier/media/videos/main/1080p60/partial_movie_files/theseries/2852726489_1754310298_3282835053.mp4'
+file 'file:C:/Users/Kecco06/manimations/fourier/media/videos/main/1080p60/partial_movie_files/theseries/2852726489_1136155835_1426546575.mp4'
+file 'file:C:/Users/Kecco06/manimations/fourier/media/videos/main/1080p60/partial_movie_files/theseries/2852726489_1754310298_2478685202.mp4'
+file 'file:C:/Users/Kecco06/manimations/fourier/media/videos/main/1080p60/partial_movie_files/theseries/2852726489_2522644109_3655137705.mp4'
+file 'file:C:/Users/Kecco06/manimations/fourier/media/videos/main/1080p60/partial_movie_files/theseries/2852726489_1754310298_1974070751.mp4'
